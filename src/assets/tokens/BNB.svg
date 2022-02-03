@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>BNB-svg</title>
+	<defs>
+		<image width="2000" height="2000" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAwIiBoZWlnaHQ9IjI1MDAiIHZpZXdCb3g9IjAgMCAyMDAwIDIwMDAiPjxnIGZpbGw9IiNmM2JhMmYiPjxwYXRoIGQ9Ik02MTEuNTkgODQwLjQybDM4OC40LTM4OC4zOSAzODguNiAzODguNTkgMjI2LTIyNkw5OTkuOTkgMCAzODUuNiA2MTQuNDJsMjI1Ljk5IDIyNk0uMDA2IDk5OS45NjlsMjI2LjAwNy0yMjYuMDA3IDIyNS45OTIgMjI1Ljk5M0wyMjYgMTIyNS45NnpNNjExLjU5IDExNTkuNThsMzg4LjQgMzg4LjM5IDM4OC41OS0zODguNTggMjI2LjEyIDIyNS44OC0uMTEuMTJMOTk5Ljk5IDIwMDBsLTYxNC40MS02MTQuNC0uMzItLjMyIDIyNi4zMy0yMjUuN00xNTQ4LjAxMyAxMDAwLjA5M2wyMjYuMDA3LTIyNi4wMDYgMjI1Ljk5MiAyMjUuOTkyLTIyNi4wMDYgMjI2LjAwN3oiLz48cGF0aCBkPSJNMTIyOS4yMiA5OTkuODhoLjFMOTk5Ljk5IDc3MC41NSA4MzAuNTEgOTQwLjAzaC0uMDFsLTE5LjQ3IDE5LjQ4LTQwLjE2IDQwLjE3LS4zMi4zMS4zMi4zMyAyMjkuMTIgMjI5LjEzIDIyOS4zMy0yMjkuMzMuMTEtLjEzLS4yMS0uMTEiLz48L2c+PC9zdmc+"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Leyr" href="#img1" transform="matrix(.016,0,0,.016,0,0)"/>
+</svg>
